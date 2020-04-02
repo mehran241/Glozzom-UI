@@ -1,3 +1,6 @@
+body{
+    overflow-x:hidden;
+}
 .navbar .nav-link{
     font-size:14px;
     text-transform:uppercase;
@@ -57,4 +60,14 @@
 
 #video-play a{
     color:#ffffff;
+}
+
+#page-header {
+    height:200px;
+    background: url('img/image1.jpg');
+    background-position:0 -300px;
+    background-attachment:fixed;
+    color:aliceblue;
+    border-bottom:1px #ffffff solid;
+    padding-top:50px;
 }
