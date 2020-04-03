@@ -75,3 +75,17 @@ body{
 .about-img {
     margin-top: -100px;
 }
+
+#faq .card{
+    border: #685d5d;
+}
+
+#faq a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+#faq .card-body,
+#faq .card-header{
+    background: #2e2b2b;
+}
